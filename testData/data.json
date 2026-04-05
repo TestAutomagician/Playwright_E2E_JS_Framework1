@@ -2,5 +2,7 @@
     "homePageTitle": "VivTech Guru",
     "coursesTitle": "Courses",
     "learnMoreTitle": "About us",
-    "enrollTitle": "Enroll Form"
+    "enrollTitle": "Enroll Form",
+    "aboutUsTitle": "About us",
+    "aboutUsUrl": "/about.html"
 }
