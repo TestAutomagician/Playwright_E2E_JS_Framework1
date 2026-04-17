@@ -5,6 +5,6 @@
     "enrollTitle": "Enroll Form",
     "aboutUsTitle": "About us",
     "aboutUsUrl": "/about.html",
-    "token": "your-token-here", // Replace with a valid token
-    "expectedObjectCount": 13 // Replace with the expected count of objects
+    "token": "your-token-here", 
+    "expectedObjectCount": 13 
 }
